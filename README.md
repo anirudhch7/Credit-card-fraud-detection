@@ -9,6 +9,7 @@ This project implements a machine learning solution to identify fraudulent credi
 
 Credit card fraud is a significant concern in the financial industry, causing billions of dollars in losses annually. This project aims to help financial institutions automatically flag potentially fraudulent transactions for review.
 
+
 ## ✨ Features
 
 - **Deep Learning Model**: Implements a 1D CNN architecture optimized for sequential transaction data
@@ -16,6 +17,7 @@ Credit card fraud is a significant concern in the financial industry, causing bi
 - **Data Preprocessing**: Includes StandardScaler normalization for feature scaling
 - **Visualization**: Training history plots showing model performance over epochs
 - **Binary Classification**: Distinguishes between legitimate and fraudulent transactions
+
 
 ## 🛠️ Technologies Used
 
@@ -25,6 +27,7 @@ Credit card fraud is a significant concern in the financial industry, causing bi
 - **Pandas**: Data manipulation and analysis
 - **Matplotlib**: Data visualization
 - **Scikit-learn**: Data preprocessing and train-test split
+
 
 ## 📊 Model Architecture
 
@@ -40,6 +43,7 @@ The CNN model consists of:
 - **Dense Layer**: 64 neurons, ReLU activation
 - **Dropout (0.5)**: Prevents overfitting
 - **Output Layer**: 1 neuron, Sigmoid activation for binary classification
+
 
 ## 📦 Installation
 
