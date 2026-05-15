@@ -9,7 +9,6 @@ This project implements a machine learning solution to identify fraudulent credi
 
 Credit card fraud is a significant concern in the financial industry, causing billions of dollars in losses annually. This project aims to help financial institutions automatically flag potentially fraudulent transactions for review.
 
-
 ## ✨ Features
 
 - **Deep Learning Model**: Implements a 1D CNN architecture optimized for sequential transaction data
