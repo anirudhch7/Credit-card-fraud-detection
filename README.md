@@ -5,7 +5,6 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to detect 
 
 ## 📋 Overview
 
-
 This project implements a machine learning solution to identify fraudulent credit card transactions using a 1D Convolutional Neural Network. The model is trained on transaction data and achieves approximately 92% validation accuracy in detecting fraudulent activities.
 
 Credit card fraud is a significant concern in the financial industry, causing billions of dollars in losses annually. This project aims to help financial institutions automatically flag potentially fraudulent transactions for review.
